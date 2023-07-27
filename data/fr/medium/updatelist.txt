@@ -1,4 +1,4 @@
-lorcana	07-27-23
+lorcana-fr	07-27-23
 images/backgrounds/lorcana_maleficent.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_maleficent.jpg	-1004776
 images/backgrounds/lorcana_maui.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_maui.jpg	-1298306
 images/backgrounds/lorcana_mickey.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_mickey.jpg	-1012218
@@ -14,7 +14,7 @@ plugins/lorcana/packs/packdefinitions.xml	https://raw.githubusercontent.com/lack
 plugins/lorcana/packs/tfc_booster_1.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_1.jpg	-1253087
 plugins/lorcana/packs/tfc_booster_2.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_2.jpg	-1321397
 plugins/lorcana/packs/tfc_booster_3.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_3.jpg	-1084915
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/carddata.txt	5624765
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/fr/carddata.txt	5624765
 
 CardGeneralURLs:
-https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/medium/images
+https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/fr/medium/images

@@ -15,5 +15,6 @@ plugins/lorcana/packs/tfc_booster_1.jpg	https://raw.githubusercontent.com/lackey
 plugins/lorcana/packs/tfc_booster_2.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_2.jpg	-1321397
 plugins/lorcana/packs/tfc_booster_3.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_3.jpg	-1084915
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/carddata.txt	5624765
+
 CardGeneralURLs:
 https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/high/images
