@@ -1,4 +1,4 @@
-lorcana-fr	07-27-23
+lorcana	07-27-23
 images/backgrounds/lorcana_maleficent.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_maleficent.jpg	-1004776
 images/backgrounds/lorcana_maui.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_maui.jpg	-1298306
 images/backgrounds/lorcana_mickey.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/images/backgrounds/lorcana_mickey.jpg	-1012218
