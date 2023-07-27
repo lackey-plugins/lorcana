@@ -1,0 +1,17 @@
+lorcaca	07-27-23
+images/backgrounds/lorcana_maleficent.jpg	http://www.lackeyccg.com/lorcana/images/backgrounds/lorcana_maleficent.jpg	0
+images/backgrounds/lorcana_maui.jpg	http://www.lackeyccg.com/lorcana/images/backgrounds/lorcana_maui.jpg	0
+images/backgrounds/lorcana_mickey.jpg	http://www.lackeyccg.com/lorcana/images/backgrounds/lorcana_mickey.jpg	0
+plugins/lorcana/formats.txt	http://www.lackeyccg.com/lorcana/formats.txt	0
+plugins/lorcana/plugininfo.txt	http://www.lackeyccg.com/lorcana/plugininfo.txt	0
+plugins/lorcana/version.txt	http://www.lackeyccg.com/lorcana/plugininfo.txt 0
+plugins/lorcana/cardback.jpg	http://www.lackeyccg.com/lorcana/cardback.jpg	0
+plugins/lorcana/spawned.jpg	http://www.lackeyccg.com/lorcana/spawned.jpg	0
+plugins/lorcana/decks/Starter_-_Amber_&_Amethyst.dek	http://www.lackeyccg.com/lorcana/decks/Starter_-_Amber_&_Amethyst.dek	0
+plugins/lorcana/decks/Starter_-_Emerald_&_Ruby.dek	http://www.lackeyccg.com/lorcana/decks/Starter_-_Emerald_&_Ruby.dek	0
+plugins/lorcana/decks/Starter_-_Sapphire_&_Steel.dek	http://www.lackeyccg.com/lorcana/decks/Starter_-_Sapphire_&_Steel.dek	0
+plugins/lorcana/packs/packdefinitions1.xml	http://www.lackeyccg.com/lorcana/packs/packdefinitions1.xml	0
+plugins/lorcana/packs/samplebooster.jpg	http://www.lackeyccg.com/lorcana/packs/samplebooster.jpg	0
+plugins/lorcana/sets/carddata.txt	http://www.lackeyccg.com/lorcana/carddata.txt	0
+CardGeneralURLs:
+http://www.lackeyccg.com/lorcana/sets/setimages

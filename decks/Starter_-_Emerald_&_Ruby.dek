@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03">Aladdin, Heroic Outlaw</name><set>1</set></card>
+		<card><name id="e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Aladdin, Street Rat</name><set>1</set></card>
+		<card><name id="e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Aladdin, Street Rat</name><set>1</set></card>
+		<card><name id="e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Aladdin, Street Rat</name><set>1</set></card>
+		<card><name id="17503a6b2326f09fbc4e3a7c03874c7333002038">Donald Duck, Boisterous Fowl</name><set>1</set></card>
+		<card><name id="17503a6b2326f09fbc4e3a7c03874c7333002038">Donald Duck, Boisterous Fowl</name><set>1</set></card>
+		<card><name id="7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Captain, Colonel&apos;s Lieutenant</name><set>1</set></card>
+		<card><name id="7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Captain, Colonel&apos;s Lieutenant</name><set>1</set></card>
+		<card><name id="601ca99d55f00a2e8e736676b606a4d31d374fdd">LeFou, Instigator</name><set>1</set></card>
+		<card><name id="775bc5c30e27f0e562115d136e7f7edbd3cead89">Pongo, Ol&apos; Rascal</name><set>1</set></card>
+		<card><name id="775bc5c30e27f0e562115d136e7f7edbd3cead89">Pongo, Ol&apos; Rascal</name><set>1</set></card>
+		<card><name id="775bc5c30e27f0e562115d136e7f7edbd3cead89">Pongo, Ol&apos; Rascal</name><set>1</set></card>
+		<card><name id="8bd7954c40c1e59a900f71ea3a266732609915b1">Rapunzel, Letting Down Her Hair</name><set>1</set></card>
+		<card><name id="8bd7954c40c1e59a900f71ea3a266732609915b1">Rapunzel, Letting Down Her Hair</name><set>1</set></card>
+		<card><name id="8bd7954c40c1e59a900f71ea3a266732609915b1">Rapunzel, Letting Down Her Hair</name><set>1</set></card>
+		<card><name id="05a8ea5382b9fd885261bb3eed0527d1d3b07262">Scar, Fiery Usurper</name><set>1</set></card>
+		<card><name id="05a8ea5382b9fd885261bb3eed0527d1d3b07262">Scar, Fiery Usurper</name><set>1</set></card>
+		<card><name id="f38cfe2e2facbcc742bad63f91ad55637300cb45">Sergeant Tibbs, Courageous Cat</name><set>1</set></card>
+		<card><name id="f38cfe2e2facbcc742bad63f91ad55637300cb45">Sergeant Tibbs, Courageous Cat</name><set>1</set></card>
+		<card><name id="f38cfe2e2facbcc742bad63f91ad55637300cb45">Sergeant Tibbs, Courageous Cat</name><set>1</set></card>
+		<card><name id="0ca9277f91e40054767f69afeb0426711ca0fddd">Stitch, Abomination</name><set>1</set></card>
+		<card><name id="2a7541babb57434e5631ffa2b5639e24f8ce84fc">Dragon Fire</name><set>1</set></card>
+		<card><name id="2a7541babb57434e5631ffa2b5639e24f8ce84fc">Dragon Fire</name><set>1</set></card>
+		<card><name id="2a7541babb57434e5631ffa2b5639e24f8ce84fc">Dragon Fire</name><set>1</set></card>
+		<card><name id="91dfde1d6e005e422f64a59776234f1f4c80b5e4">He&apos;s Got a Sword!</name><set>1</set></card>
+		<card><name id="91dfde1d6e005e422f64a59776234f1f4c80b5e4">He&apos;s Got a Sword!</name><set>1</set></card>
+		<card><name id="40f7c01f4189510031adccd9c604a128adaf9b00">Shield of Virtue</name><set>1</set></card>
+		<card><name id="40f7c01f4189510031adccd9c604a128adaf9b00">Shield of Virtue</name><set>1</set></card>
+		<card><name id="a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb">Aladdin, Prince Ali</name><set>1</set></card>
+		<card><name id="a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb">Aladdin, Prince Ali</name><set>1</set></card>
+		<card><name id="c097638f92de80ba8d6c696b26e6e601a5f61eb7">Cruella De Vil, Miserable as Usual</name><set>1</set></card>
+		<card><name id="35e995c107a71caeb833bb3b79f9f54781b33fa1">Duke of Weselton, Opportunistic Official</name><set>1</set></card>
+		<card><name id="35e995c107a71caeb833bb3b79f9f54781b33fa1">Duke of Weselton, Opportunistic Official</name><set>1</set></card>
+		<card><name id="b74f5ee9461495ba5ca4c72a7108a23904c27a05">Horace, No-Good Scoundrel</name><set>1</set></card>
+		<card><name id="b74f5ee9461495ba5ca4c72a7108a23904c27a05">Horace, No-Good Scoundrel</name><set>1</set></card>
+		<card><name id="b74f5ee9461495ba5ca4c72a7108a23904c27a05">Horace, No-Good Scoundrel</name><set>1</set></card>
+		<card><name id="b888b29826bb53dc531437e723738383d8339b56">Iago, Loud-Mouthed Parrot</name><set>1</set></card>
+		<card><name id="1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673">Jasper, Common Crook</name><set>1</set></card>
+		<card><name id="1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673">Jasper, Common Crook</name><set>1</set></card>
+		<card><name id="3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014">Mad Hatter, Gracious Host</name><set>1</set></card>
+		<card><name id="3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014">Mad Hatter, Gracious Host</name><set>1</set></card>
+		<card><name id="3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014">Mad Hatter, Gracious Host</name><set>1</set></card>
+		<card><name id="e62d7f1eb43d87c202d2f164ba61297e71be80f4">Megara, Pulling the Strings</name><set>1</set></card>
+		<card><name id="e62d7f1eb43d87c202d2f164ba61297e71be80f4">Megara, Pulling the Strings</name><set>1</set></card>
+		<card><name id="e62d7f1eb43d87c202d2f164ba61297e71be80f4">Megara, Pulling the Strings</name><set>1</set></card>
+		<card><name id="16b06bd9b738835e2d134fe8d596e9ab0086a985">Mickey Mouse, Steamboat Pilot</name><set>1</set></card>
+		<card><name id="16b06bd9b738835e2d134fe8d596e9ab0086a985">Mickey Mouse, Steamboat Pilot</name><set>1</set></card>
+		<card><name id="16b06bd9b738835e2d134fe8d596e9ab0086a985">Mickey Mouse, Steamboat Pilot</name><set>1</set></card>
+		<card><name id="4cd66dfabbd964f8c6c4414b07cdb45dae692e19">Peter Pan, Never Landing</name><set>1</set></card>
+		<card><name id="4cd66dfabbd964f8c6c4414b07cdb45dae692e19">Peter Pan, Never Landing</name><set>1</set></card>
+		<card><name id="8e63fd3e77796b102589b1ba1e4441c7982e4132">Mother Knows Best</name><set>1</set></card>
+		<card><name id="8e63fd3e77796b102589b1ba1e4441c7982e4132">Mother Knows Best</name><set>1</set></card>
+		<card><name id="8e63fd3e77796b102589b1ba1e4441c7982e4132">Mother Knows Best</name><set>1</set></card>
+		<card><name id="6fb84aed32facd1299ee1e77c8fd2b1a6352669e">Stampede</name><set>1</set></card>
+		<card><name id="6fb84aed32facd1299ee1e77c8fd2b1a6352669e">Stampede</name><set>1</set></card>
+		<card><name id="812ed4562d3211363a7b813aa9cd2cf042b63bb2">Steal from the Rich</name><set>1</set></card>
+		<card><name id="310b86e0b62b828562fc91c7be5380a992b2786a">Vicious Betrayal</name><set>1</set></card>
+		<card><name id="310b86e0b62b828562fc91c7be5380a992b2786a">Vicious Betrayal</name><set>1</set></card>
+		<card><name id="c8306ae139ac98f432932286151dc0ec55580eca">Stolen Scimitar</name><set>1</set></card>
+		<card><name id="c8306ae139ac98f432932286151dc0ec55580eca">Stolen Scimitar</name><set>1</set></card>
+	</superzone>
+</deck>
