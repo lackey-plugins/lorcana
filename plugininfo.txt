@@ -1,14 +1,20 @@
 <plugin>
 
-      <gamezone>
+      <deckzone>
             <label>Deck</label>
-            <visibletoowner>no</visibletoowner>
-            <visibletoothers>no</visibletoothers>
-      </gamezone>
+            <shuffle>yes</shuffle>
+            <gamezonetoloadto>Deck</gamezonetoloadto>
+      </deckzone>
 
       <gamezone>
             <label>Hand</label>
             <visibletoowner>yes</visibletoowner>
+            <visibletoothers>no</visibletoothers>
+      </gamezone>
+
+      <gamezone>
+            <label>Deck</label>
+            <visibletoowner>no</visibletoowner>
             <visibletoothers>no</visibletoothers>
       </gamezone>
 
@@ -18,9 +24,76 @@
             <visibletoothers>yes</visibletoothers>
       </gamezone>
 
+        <gamezone>
+            <label>Discard</label>
+            <visibletoowner>yes</visibletoowner>
+            <visibletoothers>yes</visibletoothers>
+      </gamezone>
+
       <playerstat>
             <label>Lore</label>
             <initialvalue>0</initialvalue>
       </playerstat>
+
+      <playerstat>
+            <label>Ink</label>
+            <initialvalue>0</initialvalue>
+      </playerstat>
+
+      <phase>
+            <label>Ready</label>
+      </phase>
+      
+      <phase>
+            <label>Set</label>
+      </phase>
+      
+      <phase>
+            <label>Draw</label>
+      </phase>
+      
+      <phase>
+            <label>Main</label>
+      </phase>
+
+      <generalfunction>
+            <label>Ready All</label>
+            <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><
+            includeasbutton>yes</includeasbutton>
+      </generalfunction>
+
+      <generalfunction>
+            <label>Draw</label>
+            <kind>DRAWCARD</kind>
+            <includeasbutton>yes</includeasbutton>
+      </generalfunction>
+
+      <generalfunction>
+            <label>Previous Phase</label>
+            <kind>PREVIOUSPHASE</kind>
+      </generalfunction>
+
+      <generalfunction>
+            <label>Next Phase</label>
+            <kind>NEXTPHASE</kind>
+      </generalfunction>
+
+      <cardfunction>
+            <label>Ready</label>
+            <kind>MAKERIGHT0DEGREES</kind>
+            <includeasbutton>yes</includeasbutton>
+      </cardfunction>
+
+      <cardfunction>
+            <label>Exert</label>
+            <kind>MAKERIGHT90DEGREES</kind>
+            <includeasbutton>yes</includeasbutton>
+      </cardfunction>
+
+      <cardfunction>
+            <label>Turn Over</label>
+            <kind>TURNOVER</kind>
+            <includeasbutton>yes</includeasbutton>
+      </cardfunction>
 
 </plugin>

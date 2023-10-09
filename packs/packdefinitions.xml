@@ -2,7 +2,7 @@
 
      <pack>
           <packtitle>The First Chapter - Booster 1</packtitle>
-          <packimage>tfc_booster_1</packimage>
+          <packimage>s1-booster-1.png</packimage>
           <packformat>normal</packformat>
           <packkind>Booster</packkind>
           <packdoubles>yes</packdoubles>
@@ -29,6 +29,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>RARE</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -52,6 +53,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SUPER</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -75,12 +77,13 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
      </pack>
 
      <pack>
           <packtitle>The First Chapter - Booster 2</packtitle>
-          <packimage>tfc_booster_2</packimage>
+          <packimage>s1-booster-2.png</packimage>
           <packformat>normal</packformat>
           <packkind>Booster</packkind>
           <packdoubles>yes</packdoubles>
@@ -107,6 +110,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>RARE</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -130,6 +134,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SUPER</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -153,12 +158,13 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
      </pack>
 
      <pack>
           <packtitle>The First Chapter - Booster 3</packtitle>
-          <packimage>tfc_booster_1</packimage>
+          <packimage>s1-booster-3.png</packimage>
           <packformat>normal</packformat>
           <packkind>Booster</packkind>
           <packdoubles>yes</packdoubles>
@@ -185,6 +191,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>RARE</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -208,6 +215,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SUPER</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
           <chance>
                <prob>14</prob>
@@ -231,6 +239,7 @@
                <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>UNCOMMON</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
                <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>LEGENDARY</data></crit></kind>
+               <kind><qty>1</qty></kind>
           </chance>
      </pack>
 

@@ -10,11 +10,11 @@ plugins/lorcana/spawned.jpg	https://raw.githubusercontent.com/lackey-plugins/lor
 plugins/lorcana/decks/Starter_-_Amber_&_Amethyst.dek	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/decks/Starter_-_Amber_&_Amethyst.dek	519496
 plugins/lorcana/decks/Starter_-_Emerald_&_Ruby.dek	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/decks/Starter_-_Emerald_&_Ruby.dek	521396
 plugins/lorcana/decks/Starter_-_Sapphire_&_Steel.dek	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/decks/Starter_-_Sapphire_&_Steel.dek	508928
-plugins/lorcana/packs/packdefinitions.xml	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/packdefinitions.xml	1174988
-plugins/lorcana/packs/tfc_booster_1.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_1.jpg	-1253087
-plugins/lorcana/packs/tfc_booster_2.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_2.jpg	-1321397
-plugins/lorcana/packs/tfc_booster_3.jpg	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_3.jpg	-1084915
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/carddata.txt	5307878
+plugins/lorcana/packs/packdefinitions.xml	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/packdefinitions.xml	1176103
+plugins/lorcana/packs/tfc_booster_1.png	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_1.png	-1224520
+plugins/lorcana/packs/tfc_booster_2.png	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_2.png	-1032823
+plugins/lorcana/packs/tfc_booster_3.png	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/packs/tfc_booster_3.png	-978947
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/carddata.txt	5350741
 
 CardGeneralURLs:
 https://raw.githubusercontent.com/lackey-plugins/lorcana/main/data/en/high/images
